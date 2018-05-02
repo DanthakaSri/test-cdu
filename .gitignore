@@ -12,7 +12,6 @@ backend/Homestead.json
 backend/Homestead.yaml
 backend/npm-debug.log
 backend/yarn-error.log
-backend/.env
 backend/.rocketeer/
 
 
